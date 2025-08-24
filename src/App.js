@@ -8,8 +8,8 @@ function App() {
     <div className="App">
       <h1>Lab Tasks</h1>
       <Counter />
-      {/* <UserInput /> */}
-     {/* <TodoList />*/}
+      <UserInput />
+      <TodoList />
     </div>
   );
 }
